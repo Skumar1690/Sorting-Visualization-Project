@@ -40,7 +40,7 @@ Instructions on how to set up your local environment and run the project.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Sorting_Visualizer.git
+git clone [https://github.com/Skumar1690/Sorting_Visualizer.git]
 
 # Navigate to the project directory
 cd Sorting_Visualizer
